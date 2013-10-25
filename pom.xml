@@ -8,6 +8,7 @@
 	<name>Geometrixx Bundle</name>
 	<packaging>bundle</packaging>
 
+
 	<repositories>
 		<repository>
 			<id>adobe-repo</id>
